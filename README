@@ -28,6 +28,12 @@ the st terminfo entry with the following command:
 
 See the man page for additional details.
 
+Applied patches
+---------------
+- Alpha https://st.suckless.org/patches/alpha/
+- Blinking cursor https://st.suckless.org/patches/blinking_cursor/
+- Scrollback https://st.suckless.org/patches/scrollback/
+
 Credits
 -------
 Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
